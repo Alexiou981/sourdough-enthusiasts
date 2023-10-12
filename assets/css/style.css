@@ -19,7 +19,7 @@ body {
     flex-direction: column;
     /* Create generic styles */
     color: #3a3a3a;
-    font-family: 'Space Mono', monospace;
+    font-family: 'Titillium Web', sans-serif;
 
 
 }
@@ -30,6 +30,10 @@ header {
     background-color: lightcoral;
     width: 100%;
 
+}
+
+h1 {
+    font-family: 'Space Mono', monospace;
 }
 
 /* Main */
