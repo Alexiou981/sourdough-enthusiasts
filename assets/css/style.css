@@ -113,7 +113,7 @@ footer {
 
 @media screen and (min-width: 343px) {
     
-    /* Adjust main element to fit screen size for screens larger than 483px */
+    /* Adjust main element to fit screen size for screens larger than 343px */
 
     main {
         margin-top: 47px;
