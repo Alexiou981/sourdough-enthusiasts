@@ -111,7 +111,7 @@ footer {
 
 /* Media query for large mobiles and up to tablets screen size */
 
-@media screen and (min-width: 375px) {
+@media screen and (min-width: 343px) {
     
     /* Adjust main element to fit screen size for screens larger than 483px */
 
@@ -144,6 +144,7 @@ footer {
     }
 
     #logo {
+        font-size: 170%;
         line-height: 75px;
         margin: 0 0.5rem;
         text-align: left;
