@@ -93,6 +93,8 @@ nav {
 .nav-toggle-label {
     font-size: 2rem;
 }
+
+
 /* Main */
 
 main {
@@ -104,9 +106,19 @@ main {
 
 /* Footer */
 
-footer {
-    background-color: orange;
+#social-media {
+    text-align:center;
+    margin: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    
+}
 
+#social-media i {
+    font-size: 200%;
+    margin: 5%;
+    color: #3a3a3a;
 }
 
 /* Media query for large mobiles and up to tablets screen size */
