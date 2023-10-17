@@ -50,7 +50,7 @@ h1 {
     font-family: 'Space Mono', monospace;
     text-transform: uppercase;
     letter-spacing: 1px;
-    font-size: 140%;
+    font-size: 160%;
     color: #1D1F38;
 }
 
@@ -91,7 +91,7 @@ nav {
 }
 
 .nav-toggle-label {
-    font-size: 2rem;
+    font-size: 150%;
 }
 
 
@@ -101,7 +101,7 @@ main {
     background-color: lightblue;
     /* Make main content take-up the majority of the space */
     flex: 1 0 auto;
-    margin-top: 77px;
+    margin-top: 75px;
 }
 
 /* Footer */
@@ -121,14 +121,11 @@ main {
     color: #3a3a3a;
 }
 
-/* Media query for large mobiles and up to tablets screen size */
+/* Media query for large mobiles 425px and up */
 
-@media screen and (min-width: 343px) {
-    
-    /* Adjust main element to fit screen size for screens larger than 343px */
-
+@media screen and (min-width:425px) {
     main {
-        margin-top: 47px;
+        margin-top: 38px;
     }
 }
 
@@ -156,7 +153,7 @@ main {
     }
 
     #logo {
-        font-size: 170%;
+        font-size: 180%;
         line-height: 75px;
         margin: 0 0.5rem;
         text-align: left;
