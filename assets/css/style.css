@@ -20,8 +20,6 @@ body {
     /* Create generic styles */
     color: #3a3a3a;
     font-family: 'Titillium Web', sans-serif;
-
-
 }
 
 /* Header */
@@ -37,7 +35,6 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
-
 }
 
 header a {
@@ -83,7 +80,6 @@ nav {
 /* Nav toggle */
 #nav-toggle:checked~nav {
     display: block;
-
 }
 
 #nav-toggle {
@@ -112,7 +108,6 @@ main {
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
-    
 }
 
 #social-media i {
@@ -163,6 +158,7 @@ main {
     main {
         margin-top: 74px;
     }
+}
 
     /* Media query for screens 992px and larger */
 
@@ -172,5 +168,3 @@ main {
         }
     }
 
-
-}
