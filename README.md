@@ -20,3 +20,4 @@ The live link of the website is: https://alexiou981.github.io/sourdough-enthusia
 ## **Credits**
 ### *Contents*
 ### *Media* 
+- The photo used for the favicon was taken from an open-source website and it can be found here: https://www.pexels.com/photo/freshly-baked-golden-loaf-on-white-surface-6605209/ by Geraud Pfeiffer
