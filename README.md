@@ -3,6 +3,11 @@
 ### *Existing Features*
 - __Navigation Bar__
 
+    **Mobile Screens:**
+![Nav Bar for Mobile Screens](assets/images/features-images/nav-bar-smaller-screens.png)
+
+    **Table Screens and Larger:**
+![Nav Bar for Tablet Screens and Larger](assets/images/features-images/nav-bar-tablet-screen-and-up.png)
 ### *Features to be added in future*
 ## **Testing**
 ### *Validator Testing* 
