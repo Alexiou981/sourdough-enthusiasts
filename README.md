@@ -1,5 +1,13 @@
 # SOURDOUGH ENTHUSIASTS
-# Deployment 
+## **Features**
+### *Existing Features*
+### *Features to be added in future*
+## **Testing**
+### *Validator Testing* 
+### *Unfixed Bugs* 
+    - If any.
+## **Repository and Worspace Set Up**
+## **Deployment** 
 The website was deployed using Github.com. 
 - The steps followed were: 
     - In the github repository (sourdough enthusiasts) click on the Setting tab, right under the search bar.
@@ -8,3 +16,7 @@ The website was deployed using Github.com.
     - Once the main branch is selected the page should be deployed automatically. It will display at the top of the page that the site is deployed and indicate the link to access the site.
 
 The live link of the website is: https://alexiou981.github.io/sourdough-enthusiasts/ 
+
+## **Credits**
+### *Contents*
+### *Media* 
