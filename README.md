@@ -1,6 +1,8 @@
 # SOURDOUGH ENTHUSIASTS
 ## **Features**
 ### *Existing Features*
+- __Navigation Bar__
+
 ### *Features to be added in future*
 ## **Testing**
 ### *Validator Testing* 
