@@ -11,6 +11,9 @@
 
     **Table Screens and Larger:**
 ![Nav Bar for Tablet Screens and Larger](assets/images/features-images/nav-bar-tablet-screen-and-up.png)
+
+- __The Footer__
+![Footer with Social Media links](assets/images/features-images/smedia-footer.png)
 ### *Features to be added in future*
 ## **Testing**
 ### *Validator Testing* 
