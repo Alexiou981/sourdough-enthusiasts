@@ -108,6 +108,12 @@ main {
     font-size: 100%;
     color: white;
 }
+
+.history-title {
+    text-transform: uppercase;
+    font-size: 110%;
+    
+}
 /* Footer */
 
 footer {
