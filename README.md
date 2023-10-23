@@ -76,4 +76,5 @@ The live link of the website is: https://alexiou981.github.io/sourdough-enthusia
    - Fresh Bread on Wooden Cutting Board by _Marta Dzedyshko_ taken from: https://www.pexels.com/photo/fresh-bread-on-wooden-cutting-board-7693957/
    - Slices of Sourdough Bread on Black Ceramic Plate by _Jytte Elfferich_ taken from: https://www.pexels.com/photo/slices-of-sourdough-bread-on-a-black-ceramic-plate-4881593/
    - A Person Holding a Crusting Loaf of Bread by _Skyler Ewing_ taken from: https://www.pexels.com/photo/a-person-holding-a-crusty-loaf-of-bread-10011795/
+   - Fresh bread in basket placed on wooden surfave by _Piotr Arnoldes_ taken from: https://www.pexels.com/photo/fresh-bread-in-basket-placed-on-wooden-surface-6794615/
 
