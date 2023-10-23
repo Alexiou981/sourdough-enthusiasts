@@ -23,6 +23,14 @@
 ### *Unfixed Bugs* 
     - If any.
 ## **Repository and Worspace Set Up**
+-  Creating a repository on Github.com:
+    - Click on the Repositories tab.
+    - On the top right-hand corner there is a green button that says "New", click on that.
+    - Give the new repository a name, "sourdough-enthusiasts" in this case.
+    - Ensure the repository is public by clicking on the Public button under the Description field.
+    - Click on the Add README file in order to have this file included automatically.
+    - Lastly, at the bottom right-hand corner click on "Create repository".
+
 ## **Deployment** 
 The website was deployed using Github.com. 
 - The steps followed were: 
