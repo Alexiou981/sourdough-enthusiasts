@@ -22,7 +22,7 @@
 ### *Validator Testing* 
 ### *Unfixed Bugs* 
     - If any.
-## **Repository and Worspace Set Up**
+## **Repository and Workspace Set Up**
 -  Creating a repository on Github.com:
     - Click on the Repositories tab.
     - On the top right-hand corner there is a green button that says "New", click on that.
