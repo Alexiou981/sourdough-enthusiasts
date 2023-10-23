@@ -32,7 +32,7 @@
     - Lastly, at the bottom right-hand corner click on "Create repository".
     - The new repository should be now available on the repositories tab on Github.
 
-- Creating a workspace on [Codeanywhere.com](https://app.codeanywhere.com/):
+- Creating a workspace on Codeanywhere.com:
     - Login to your account, in this case I logged in using my github account.
     - On the workspaces tab click on the "New Workspace".
     - Go back to your Github repositories page and find the repository you want to create a workspace for, in this case, sourdough-enthusiasts.
