@@ -95,10 +95,11 @@ nav {
 /* Main */
 
 main {
+    background: url('../images/hero-image.jpg') center/contain no-repeat scroll;
     /* Make main content take-up the majority of the space */
     flex: 1 0 auto;
     margin-top: 75px;
-    height: 700px;
+    height: 800px;
     width: 100%;
 }
 
