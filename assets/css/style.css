@@ -102,12 +102,14 @@ main {
     width: 100%;
 }
 
+
 /* Footer */
 
 footer {
     position: fixed;
     bottom: 0;
     width: 100%;
+    background-color: #F4EFCA;
 }
 
 #social-media {
