@@ -30,6 +30,17 @@
     - Ensure the repository is public by clicking on the Public button under the Description field.
     - Click on the Add README file in order to have this file included automatically.
     - Lastly, at the bottom right-hand corner click on "Create repository".
+    - The new repository should be now available on the repositories tab on Github.
+
+- Creating a workspace on [Codeanywhere.com](https://app.codeanywhere.com/):
+    - Login to your account, in this case I logged in using my github account.
+    - On the workspaces tab click on the "New Workspace".
+    - Go back to your Github repositories page and find the repository you want to create a workspace for, in this case, sourdough-enthusiasts.
+    - Click on the repository and inside of it at the top right-hand corner there is a button that says "Code".
+    - Click on the code button and copy the https URL from it.
+    - Paste this URL in codeanywhere inside the "Create from your project repository" field.
+    - Click on the bottom right-hand corner the green button that says create.
+    - After a little while the workspace should be up and running.
 
 ## **Deployment** 
 The website was deployed using Github.com. 
