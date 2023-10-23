@@ -2,6 +2,9 @@
 ## **Features**
 ### *Existing Features*
 - __Navigation Bar__
+    - The navigation bar is fully responsive and allows the user to navigate to all three pages (Home, Gallery and Get Involved) and the Logo (SOURDOUGH ENTHUSIASTS) which takes the user to the home page.
+    - It is featured in all three pages of the website.
+    - It provides the user with easy navigation on all screens with the pages being displayed in a single row on tablet screens and larger. For mobile screens the pages list can be displayed by clicking on the icon at the top right of the screen.
 
     **Mobile Screens:**
 ![Nav Bar for Mobile Screens](assets/images/features-images/nav-bar-smaller-screens.png)
