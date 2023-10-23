@@ -103,7 +103,11 @@ main {
     width: 100%;
 }
 
-
+#history {
+    background-color: #575231;
+    font-size: 100%;
+    color: white;
+}
 /* Footer */
 
 footer {
