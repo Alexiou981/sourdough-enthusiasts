@@ -13,6 +13,9 @@
 ![Nav Bar for Tablet Screens and Larger](assets/images/features-images/nav-bar-tablet-screen-and-up.png)
 
 - __The Footer__
+    - The footer includes the icons to the social media pages and each icon opens in a new tab on the browser.
+    - It lets the user access and get connected with the websites social media.
+    
 ![Footer with Social Media links](assets/images/features-images/smedia-footer.png)
 ### *Features to be added in future*
 ## **Testing**
