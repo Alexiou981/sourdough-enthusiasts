@@ -15,7 +15,7 @@
 - __The Footer__
     - The footer includes the icons to the social media pages and each icon opens in a new tab on the browser.
     - It lets the user access and get connected with the websites social media.
-    
+
 ![Footer with Social Media links](assets/images/features-images/smedia-footer.png)
 ### *Features to be added in future*
 ## **Testing**
@@ -34,7 +34,8 @@ The website was deployed using Github.com.
 The live link of the website is: https://alexiou981.github.io/sourdough-enthusiasts/ 
 
 ## **Credits**
-### *Contents*
+### *Content*
+- As a starting point of creating this website and to help me get a better idea in terms of structure and layout I used the Love Running project index.html and style.css files. The links to the files can be found here:https://github.com/Code-Institute-Solutions/love-running-v3/blob/main/3.7-creating-the-footer/index.html (HTML) and here: https://github.com/Code-Institute-Solutions/love-running-v3/blob/main/3.7-creating-the-footer/assets/css/style.css (CSS) both provided by AJGreaves. 
 ### *Media* 
 - The photo used for the favicon was taken from an open-source website and it can be found here: https://www.pexels.com/photo/freshly-baked-golden-loaf-on-white-surface-6605209/ by Geraud Pfeiffer.
 

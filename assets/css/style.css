@@ -5,6 +5,7 @@
 
 /* Asterisk wildcard to override default styles created by the browser */
 
+/* Part of this code is not origianl code, the original code used for the basic layout and styling pusrposes can be found here: https://github.com/Code-Institute-Solutions/love-running-v3/blob/main/3.7-creating-the-footer/assets/css/style.css */
 * {
     padding: 0;
     margin: 0;
