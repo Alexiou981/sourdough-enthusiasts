@@ -114,6 +114,7 @@ main {
     position: absolute;
     bottom: 273px;
     width: 75%;
+    right: 0;
 }
 #history {
     background-color: rgba(210,205,171, 0.6);
