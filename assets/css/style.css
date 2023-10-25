@@ -167,9 +167,6 @@ footer {
 /* Media query for large mobiles 425px and up */
 
 @media screen and (min-width:425px) {
-    main {
-       /* margin-top: 38px; */
-    }
 
     /* Quote position on mobile screens */
 
@@ -215,10 +212,6 @@ footer {
         text-align: left;
     }
 
-    main {
-       /* margin-top: 74px; */
-    }
-
     /* Landing page quote style rule for tablet screens and larger */
 
     #landing-quote {
@@ -241,4 +234,3 @@ footer {
             width: 60%;
         }
     }
-
