@@ -103,11 +103,11 @@ main {
     position: relative;
 }
 
-/* Styling for landing quote */
+/* Generic styling for landing quote */
 
 #landing-quote {
     background-color: rgba(73, 70, 57, 0.691);
-    font-size: 18px;
+    font-size: 19px;
     text-align: center;
    /* margin-top: 150px; */
     color: wheat;
