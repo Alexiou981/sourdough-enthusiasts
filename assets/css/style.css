@@ -161,6 +161,10 @@ footer {
     main {
         margin-top: 38px;
     }
+
+    #landing-quote {
+        bottom: 160px;
+    }
 }
 
 /* Media query for tablet screens and larger */
@@ -195,6 +199,10 @@ footer {
 
     main {
         margin-top: 74px;
+    }
+
+    #landing-quote {
+        bottom: 300px;
     }
 }
 
