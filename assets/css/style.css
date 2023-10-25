@@ -131,13 +131,14 @@ main {
 .history-description {
     text-align: center;
 }
-/* Footer - /* Header - Code was borrowed from the walkthourgh project Love Running for this section and can be found here: https://github.com/Code-Institute-Solutions/love-running-v3/blob/main/3.7-creating-the-footer/assets/css/style.css */ 
+/* Footer - Code was borrowed from the walkthourgh project Love Running for this section and can be found here: https://github.com/Code-Institute-Solutions/love-running-v3/blob/main/3.7-creating-the-footer/assets/css/style.css */ 
 
 footer {
     position: fixed;
     bottom: 0;
     width: 100%;
     background-color: #F4EFCA;
+    padding: 20px, 0;
 }
 
 #social-media {
