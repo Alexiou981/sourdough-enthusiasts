@@ -4,8 +4,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital@0;1&family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap');
 
 /* Asterisk wildcard to override default styles created by the browser */
-
-/* Part of this code is not origianl code, the original code used for the basic layout and styling pusrposes can be found here: https://github.com/Code-Institute-Solutions/love-running-v3/blob/main/3.7-creating-the-footer/assets/css/style.css */
+ 
 * {
     padding: 0;
     margin: 0;
@@ -23,7 +22,7 @@ body {
     font-family: 'Titillium Web', sans-serif;
 }
 
-/* Header */
+/* Header - Code was borrowed from the walkthourgh project Love Running for this section and can be found here: https://github.com/Code-Institute-Solutions/love-running-v3/blob/main/3.7-creating-the-footer/assets/css/style.css */
 
 header {
     background-color: #F4EFCA;
@@ -118,7 +117,7 @@ main {
 .history-description {
     text-align: center;
 }
-/* Footer */
+/* Footer - /* Header - Code was borrowed from the walkthourgh project Love Running for this section and can be found here: https://github.com/Code-Institute-Solutions/love-running-v3/blob/main/3.7-creating-the-footer/assets/css/style.css */ 
 
 footer {
     position: fixed;
