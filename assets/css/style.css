@@ -112,7 +112,7 @@ main {
    /* margin-top: 150px; */
     color: wheat;
     position: absolute;
-    bottom: 273px;
+    bottom: 199px;
     width: 75%;
     right: 0;
 }
@@ -134,7 +134,7 @@ main {
 /* Footer - Code was borrowed from the walkthourgh project Love Running for this section and can be found here: https://github.com/Code-Institute-Solutions/love-running-v3/blob/main/3.7-creating-the-footer/assets/css/style.css */ 
 
 footer {
-    position: fixed;
+    position: relative;
     bottom: 0;
     width: 100%;
     background-color: #F4EFCA;
