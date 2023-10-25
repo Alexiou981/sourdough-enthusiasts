@@ -102,6 +102,15 @@ main {
     width: 100%;
 }
 
+/* Styling for landing quote */
+
+#landing-quote {
+    background-color: rgba(73, 70, 57, 0.691);
+    font-size: 18px;
+    text-align: center;
+    margin-top: 150px;
+    color: wheat;
+}
 #history {
     background-color: rgba(210,205,171, 0.6);
     font-size: 100%;
