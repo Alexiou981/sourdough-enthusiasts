@@ -97,8 +97,8 @@ main {
     background: url('../images/hero-image.jpg') center/cover no-repeat scroll;
     /* Make main content take-up the majority of the space */
     flex: 1 0 auto;
-    margin-top: 75px;
-    height: 800px;
+    /* margin-top: 75px; */
+    height: 676px;
     width: 100%;
     position: relative;
 }
@@ -159,7 +159,7 @@ footer {
 
 @media screen and (min-width:425px) {
     main {
-        margin-top: 38px;
+       /* margin-top: 38px; */
     }
 
     #landing-quote {
@@ -198,7 +198,7 @@ footer {
     }
 
     main {
-        margin-top: 74px;
+       /* margin-top: 74px; */
     }
 
     #landing-quote {
