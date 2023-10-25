@@ -118,7 +118,7 @@ main {
    /* margin-top: 150px; */
     color: wheat;
     position: absolute;
-    bottom: 199px;
+    bottom: 100px;
     width: 75%;
     right: 0;
 }
@@ -170,9 +170,7 @@ footer {
 
     /* Quote position on mobile screens */
 
-    #landing-quote {
-        bottom: 160px;
-    }
+ 
 }
 
 /* Media query for tablet screens and larger */
@@ -215,7 +213,6 @@ footer {
     /* Landing page quote style rule for tablet screens and larger */
 
     #landing-quote {
-        bottom: 300px;
         font-size: 23px;
     }
 }
