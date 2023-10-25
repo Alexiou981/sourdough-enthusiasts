@@ -207,7 +207,7 @@ footer {
     }
 }
 
-    /* Media query for lapto screens and larger */
+    /* Media query for laptop screens and larger */
 
     @media screen and (min-width: 1024px) {
         #menu a:hover {
