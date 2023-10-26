@@ -54,7 +54,7 @@ The live link of the website is: https://alexiou981.github.io/sourdough-enthusia
 
 ## **Credits**
 ### *Content*
-- As a starting point of creating this website and to help me get a better idea in terms of structure and layout I used the Love Running project index.html and style.css files. The links to the files can be found here:https://github.com/Code-Institute-Solutions/love-running-v3/blob/main/3.7-creating-the-footer/index.html (HTML) and here: https://github.com/Code-Institute-Solutions/love-running-v3/blob/main/3.7-creating-the-footer/assets/css/style.css (CSS) both provided by AJGreaves. 
+- As a starting point of creating this website and to help me get a better idea in terms of structure and layout I used the Love Running project index.html and style.css files. The links to the files can be found here: [HTML](https://github.com/Code-Institute-Solutions/love-running-v3/blob/main/3.7-creating-the-footer/index.html) and [CSS](https://github.com/Code-Institute-Solutions/love-running-v3/blob/main/3.7-creating-the-footer/assets/css/style.css) both provided by AJGreaves. 
 
 - The quote on the home page of the website was taken from here: https://www.goodreads.com/quotes/tag/sourdough by _Chris Geiger_
 
