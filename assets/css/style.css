@@ -100,15 +100,18 @@ nav {
 /* Main */
 
 main {
-    background: url('../images/hero-image.jpg') center/cover no-repeat scroll;
     /* Make main content take-up the majority of the space */
     flex: 1 0 auto;
-    /* margin-top: 75px; */
+}
+
+/* Generic styling for landing image */
+
+#landing-image {
+    background: url('../images/hero-image.jpg') center/cover no-repeat scroll;
     height: 676px;
     width: 100%;
     position: relative;
 }
-
 /* Generic styling for landing quote */
 
 #landing-quote {
