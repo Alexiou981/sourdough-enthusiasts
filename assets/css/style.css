@@ -222,5 +222,10 @@ footer {
 
         #landing-image {
             margin-top: 35px;
+            height: 750px;
+        }
+
+        #history {
+            height: 725px;
         }
     }
