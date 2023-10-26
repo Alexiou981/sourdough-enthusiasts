@@ -108,7 +108,7 @@ main {
 /* Generic styling for landing image */
 
 #landing-image {
-    background: url('../images/hero-image.jpg') center/cover no-repeat scroll;
+    background: url('../images/hero-image-hq.jpg') center/cover no-repeat scroll;
     height: 676px;
     width: 100%;
     position: relative;
