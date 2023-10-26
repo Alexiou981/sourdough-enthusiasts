@@ -170,10 +170,6 @@ footer {
 /* Media query for large mobiles 425px and up */
 
 @media screen and (min-width:425px) {
-
-    /* Quote position on mobile screens */
-
- 
 }
 
 /* Media query for tablet screens and larger */
@@ -232,5 +228,10 @@ footer {
         #landing-quote {
             font-size: 24px;
             width: 60%;
+            bottom: 250px;
+        }
+
+        #landing-image {
+            margin-top: 35px;
         }
     }
