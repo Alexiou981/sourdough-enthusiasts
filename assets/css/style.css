@@ -129,7 +129,7 @@ main {
 #history {
     background: url('../images/history-image.jpg') center/cover no-repeat scroll;
     width: 100%;
-    height: 600px;
+    height: 605px;
     position: relative;
 }
 /* Footer - A part of this code was borrowed from the walkthourgh project Love Running for this section and can be found here: https://github.com/Code-Institute-Solutions/love-running-v3/blob/main/3.7-creating-the-footer/assets/css/style.css */ 
@@ -159,6 +159,9 @@ footer {
 /* Media query for large mobiles 425px and up */
 
 @media screen and (min-width:425px) {
+    #history {
+        height: 645px;
+    }
 }
 
 /* Media query for tablet screens and larger */
@@ -203,6 +206,10 @@ footer {
     #landing-quote {
         font-size: 23px;
     }
+
+    #history {
+        height: 605px;
+    }
 }
 
     /* Media query for laptop screens and larger */
@@ -226,6 +233,6 @@ footer {
         }
 
         #history {
-            height: 725px;
+            height: 720px;
         }
     }
