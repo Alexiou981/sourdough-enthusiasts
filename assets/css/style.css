@@ -114,18 +114,18 @@ main {
     position: relative;
 }
 /* Generic styling for landing quote */
-/*
+
 #landing-quote {
     background-color: #8b6a56b3;
     text-align: center;
    /* margin-top: 150px; */
-   /* color: wheat;
+    color: wheat;
     position: absolute;
     bottom: 100px;
     width: 75%;
     right: 0;
-} */
-/*
+} 
+
 #history {
     background: url('../images/history-image.jpg') center/cover no-repeat scroll;
     width: 100%;
