@@ -17,7 +17,7 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    flex-grow: 1 0 auto;
+    
     /* Create generic styles */
     color: #3a3a3a;
     font-family: 'Titillium Web', sans-serif;
@@ -103,13 +103,19 @@ nav {
 main {
     /* Make main content take-up the majority of the space */
     flex: 1 0 auto;
+    margin-top: 75px;
 }
 
 /* Generic styling for landing image */
 
+
 #landing-image {
-    background: url('../images/hero-image-hq.jpg') center/cover no-repeat scroll;
-    height: 676px;
+    background: url('../images/hero-image-hq.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    height: 100%;
     width: 100%;
     position: relative;
 }
@@ -117,15 +123,11 @@ main {
 
 #landing-quote {
     background-color: #8b6a56b3;
-    text-align: center;
-   /* margin-top: 150px; */
     color: wheat;
-    position: absolute;
-    bottom: 100px;
-    width: 75%;
-    right: 0;
+    width: 90%;
+    position: relative;
 } 
-
+/*
 #history {
     background: url('../images/history-image.jpg') center/cover no-repeat scroll;
     width: 100%;
@@ -136,7 +138,8 @@ main {
 
 footer {
     position: relative;
-    bottom: 0;
+    bottom: -76px;
+    margin-top: -76px;
     width: 100%;
     background-color: #F4EFCA;
     padding: 20px, 0;
@@ -156,12 +159,17 @@ footer {
     color: #3a3a3a;
 }
 
+/* Media query for header responsiveness 387px and up */
+@media screen and (min-width: 387px) {
+    main {
+        margin-top: 38px;
+    }
+    
+}
 /* Media query for large mobiles 425px and up */
 
 @media screen and (min-width:425px) {
-    #history {
-        height: 645px;
-    }
+
 }
 
 /* Media query for tablet screens and larger */
@@ -201,15 +209,12 @@ footer {
         text-align: left;
     }
 
+    main {
+        margin-top: 75px;
+    }
+
     /* Landing page quote style rule for tablet screens and larger */
 
-    #landing-quote {
-        font-size: 23px;
-    }
-
-    #history {
-        height: 605px;
-    }
 }
 
     /* Media query for laptop screens and larger */
@@ -220,19 +225,4 @@ footer {
         }
 
         /* Landing page quote style rule for laptop screens and larger */
-
-        #landing-quote {
-            font-size: 24px;
-            width: 60%;
-            bottom: 250px;
-        }
-
-        #landing-image {
-            margin-top: 35px;
-            height: 750px;
-        }
-
-        #history {
-            height: 720px;
-        }
     }
