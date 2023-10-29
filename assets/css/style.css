@@ -127,8 +127,10 @@ main {
 #landing-quote {
     background-color: #8b6a56b3;
     color: wheat;
-    width: 90%;
+    width: 80%;
     position: relative;
+    margin-top: 30%;
+    font-size: 110%;
 } 
 /*
 #history {
@@ -162,6 +164,16 @@ footer {
     color: #3a3a3a;
 }
 
+/* Media query for medium mobile screens */
+
+@media screen and (min-width: 375px) {
+    #landing-quote {
+        font-size: 120%;
+      
+    }
+   
+}
+
 /* Media query for header responsiveness 387px and up */
 @media screen and (min-width: 387px) {
     main {
@@ -172,6 +184,10 @@ footer {
 /* Media query for large mobiles 425px and up */
 
 @media screen and (min-width:425px) {
+    #landing-quote {
+        width: 70%;
+        
+    }
 
 }
 
@@ -214,6 +230,12 @@ footer {
 
     main {
         margin-top: 75px;
+    }
+
+    #landing-quote {
+        width: 60%;
+        margin-top: 10%;
+        font-size: 130%;
     }
 
     /* Landing page quote style rule for tablet screens and larger */
