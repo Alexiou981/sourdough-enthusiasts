@@ -100,12 +100,15 @@ nav {
 /* Main */
 
 main {
-    position: absolute;
+    position: relative;
     height: 100%;
     width: 100%;
     /* Make main content take-up the majority of the space */
     flex: 1 0 auto;
     margin-top: 75px;
+    display: flex;
+    flex-direction: column;
+    justify-content: content;
 }
 
 /* Generic styling for landing image */
@@ -117,7 +120,7 @@ main {
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center;
-    height: 100%;
+    min-height: 90vh;
     width: 100%;
     position: relative;
     display: flex;
@@ -139,7 +142,7 @@ main {
 #history {
     background: url('../images/history-image.jpg');
     width: 100%;
-    height: 100%;
+    min-height: 90vh;
     position: relative;
     background-size: cover;
     background-repeat: no-repeat;
@@ -149,9 +152,6 @@ main {
 /* Footer - A part of this code was borrowed from the walkthourgh project Love Running for this section and can be found here: https://github.com/Code-Institute-Solutions/love-running-v3/blob/main/3.7-creating-the-footer/assets/css/style.css */ 
 
 footer {
-    position: absolute;
-    bottom: -76px;
-    margin-top: -76px;
     width: 100%;
     background-color: #F4EFCA;
     padding: 20px, 0;
