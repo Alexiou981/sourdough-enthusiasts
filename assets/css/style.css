@@ -186,6 +186,14 @@ footer {
     main {
         margin-top: 38px;
     }
+
+    #landing-image {
+        height: 95vh;
+    }
+
+    #history {
+        height: 95vh;
+    }
     
 }
 /* Media query for large mobiles 425px and up */
@@ -239,10 +247,18 @@ footer {
         margin-top: 75px;
     }
 
+    #landing-image {
+        height: 90vh;
+    }
+
     #landing-quote {
         width: 60%;
         margin-top: 10%;
         font-size: 130%;
+    }
+
+    #history {
+        height: 90vh;
     }
 
     /* Landing page quote style rule for tablet screens and larger */
