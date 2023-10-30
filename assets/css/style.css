@@ -149,6 +149,22 @@ main {
     background-attachment: scroll;
     background-position: center;
 } 
+
+#history-text {
+    background-color: #523f33b3;
+    color: wheat;
+    font-family: 'Space Mono', monospace;
+}
+
+#history-title {
+    text-transform: uppercase;
+    font-size: 100%;
+    text-align: center;
+}
+
+#history-description {
+    font-size: 75%;
+}
 /* Footer - A part of this code was borrowed from the walkthourgh project Love Running for this section and can be found here: https://github.com/Code-Institute-Solutions/love-running-v3/blob/main/3.7-creating-the-footer/assets/css/style.css */ 
 
 footer {
