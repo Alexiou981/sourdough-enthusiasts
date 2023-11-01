@@ -155,7 +155,7 @@ main {
     background-color: #3c2f26ba;
     color: wheat;
     font-family: 'Space Mono', monospace;
-    max-height: 90vh;
+    max-height: 80vh;
     overflow-y: scroll;
     scroll-behavior: smooth;
     margin: 30px 20px 20px 20px;
@@ -195,6 +195,17 @@ main {
     margin-right: auto;
     width: 90%;
     max-height: 38vh;
+}
+
+#health-benefits {
+    background: url('../images/health-benefits.jpg');
+    width: 100%;
+    min-height: 90vh;
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
 }
 
 #health-benefits-text {
@@ -266,6 +277,10 @@ footer {
         min-height: 98vh;
     }
 
+    #health-benefits {
+        min-height: 98vh;
+    }
+
 }
 
 /* Media query for large mobiles 425px and up */
@@ -277,6 +292,7 @@ footer {
 
     #history-text {
         padding: 20px 40px;
+        max-height: 85vh;
     }
 
     #history-description {
@@ -356,6 +372,10 @@ footer {
     }
     #text-img3 {
         width: 60%;
+    }
+
+    #health-benefits {
+        min-height: 95vh;
     }
 
 }
