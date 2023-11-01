@@ -155,9 +155,9 @@ main {
     background-color: #523f33b3;
     color: wheat;
     font-family: 'Space Mono', monospace;
-    height: 35vh;
+    height: 40vh;
     overflow-y: scroll;
-    margin: 20px 10px;
+    margin: 20px 20px;
     text-align: justify;
     padding: 20px 30px;
 
@@ -166,7 +166,7 @@ main {
 
 #history-title {
     text-transform: uppercase;
-    font-size: 100%;
+    font-size: 130%;
     text-align: center;
 }
 
@@ -252,6 +252,14 @@ footer {
     #landing-quote {
         width: 70%;
     }
+
+    #history-text {
+        padding: 20px 40px;
+    }
+
+    #history-description {
+        font-size: 80%;
+    }
 }
 
 /* Media query for tablet screens and larger */
@@ -310,12 +318,52 @@ footer {
         min-height: 95vh;
     }
 
+    #history-text {
+        padding: 20px 60px;
+    }
+
+    #history-description {
+        font-size: 95%;
+    }
+
+    #text-img1 {
+        width: 60%;
+    }
+    #text-img2 {
+        width: 50%;
+    }
+    #text-img3 {
+        width: 60%;
+    }
+
 }
     /* Media query for laptop screens and larger */
 
     @media screen and (min-width: 1024px) {
         #menu a:hover {
             border-bottom: 1px solid #3a3a3a;
+        }
+
+        #history-text {
+            padding: 20px 120px;
+        }
+
+        #history-title {
+            font-size: 160%;
+        }
+
+        #history-description {
+            font-size: 110%;
+        }
+
+        #text-img1 {
+            width: 40%;
+        }
+        #text-img2 {
+            width: 30%;
+        }
+        #text-img3 {
+            width: 40%;
         }
 
     }
