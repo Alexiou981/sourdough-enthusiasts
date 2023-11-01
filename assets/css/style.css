@@ -1,10 +1,9 @@
-
 /* Google Fonts */
 
 @import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital@0;1&family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap');
 
 /* Asterisk wildcard to override default styles created by the browser */
- 
+
 * {
     padding: 0;
     margin: 0;
@@ -26,12 +25,12 @@ body {
 
 header {
     background-color: #F4EFCA;
-    padding:0 0.5rem;
+    padding: 0 0.5rem;
     position: fixed;
     z-index: 99;
     width: 100%;
     height: auto;
-    box-shadow:0 2px 2px #3a3a3a;
+    box-shadow: 0 2px 2px #3a3a3a;
     display: flex;
     justify-content: space-between;
     align-items: baseline;
@@ -59,7 +58,7 @@ h1 {
     list-style-type: none;
 }
 
-#menu > li {
+#menu>li {
     margin-bottom: .5em;
 }
 
@@ -75,9 +74,9 @@ nav {
     background-color: #F4EFCA;
     width: 100%;
     left: 0;
-    padding:0 .5rem;
-    box-shadow:0 2px 2px #3a3a3a;
-    display: none;  
+    padding: 0 .5rem;
+    box-shadow: 0 2px 2px #3a3a3a;
+    display: none;
     top: 100%;
 }
 
@@ -128,6 +127,7 @@ main {
     justify-content: center;
     align-items: flex-end;
 }
+
 /* Generic styling for landing quote */
 
 #landing-quote {
@@ -137,7 +137,7 @@ main {
     position: relative;
     margin-top: 30%;
     font-size: 110%;
-} 
+}
 
 #history {
     background: url('../images/history-image.jpg');
@@ -148,7 +148,7 @@ main {
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center;
-} 
+}
 
 #history-text {
     position: relative;
@@ -161,7 +161,7 @@ main {
     text-align: justify;
     padding: 20px 30px;
 
-    
+
 }
 
 #history-title {
@@ -181,6 +181,7 @@ main {
     width: 90%;
     max-height: 38vh;
 }
+
 #text-img2 {
     display: block;
     margin-left: auto;
@@ -188,6 +189,7 @@ main {
     width: 90%;
     max-height: 33vh;
 }
+
 #text-img3 {
     display: block;
     margin-left: auto;
@@ -195,7 +197,8 @@ main {
     width: 90%;
     max-height: 38vh;
 }
-/* Footer - A part of this code was borrowed from the walkthourgh project Love Running for this section and can be found here: https://github.com/Code-Institute-Solutions/love-running-v3/blob/main/3.7-creating-the-footer/assets/css/style.css */ 
+
+/* Footer - A part of this code was borrowed from the walkthourgh project Love Running for this section and can be found here: https://github.com/Code-Institute-Solutions/love-running-v3/blob/main/3.7-creating-the-footer/assets/css/style.css */
 
 footer {
     width: 100%;
@@ -204,7 +207,7 @@ footer {
 }
 
 #social-media {
-    text-align:center;
+    text-align: center;
     margin: 20px 0;
     display: flex;
     justify-content: space-evenly;
@@ -222,9 +225,9 @@ footer {
 @media screen and (min-width: 375px) {
     #landing-quote {
         font-size: 120%;
-      
+
     }
-   
+
 }
 
 /* Media query for header responsiveness 387px and up */
@@ -234,22 +237,21 @@ footer {
     }
 
     #landing-image {
-        height: 95vh;
+        min-height: 98vh;
     }
 
     #history {
-        height: 95vh;
+        min-height: 98vh;
     }
-    
+
 }
+
 /* Media query for large mobiles 425px and up */
 
 @media screen and (min-width:425px) {
     #landing-quote {
         width: 70%;
-        
     }
-
 }
 
 /* Media query for tablet screens and larger */
@@ -266,13 +268,14 @@ footer {
         padding-right: 1rem;
         bottom: 4px;
     }
+
     /* Menu style rules for tablet screens and larger */
 
     #menu {
-        display: flex;   
+        display: flex;
     }
 
-    #menu > li {
+    #menu>li {
         padding-left: 1rem;
     }
 
@@ -294,7 +297,7 @@ footer {
     }
 
     #landing-image {
-        height: 90vh;
+        min-height: 95vh;
     }
 
     #landing-quote {
@@ -304,13 +307,10 @@ footer {
     }
 
     #history {
-        height: 90vh;
+        min-height: 95vh;
     }
 
-    /* Landing page quote style rule for tablet screens and larger */
-
 }
-
     /* Media query for laptop screens and larger */
 
     @media screen and (min-width: 1024px) {
@@ -318,5 +318,4 @@ footer {
             border-bottom: 1px solid #3a3a3a;
         }
 
-        /* Landing page quote style rule for laptop screens and larger */
     }
