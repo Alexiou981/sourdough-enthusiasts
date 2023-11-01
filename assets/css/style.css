@@ -152,16 +152,15 @@ main {
 
 #history-text {
     position: relative;
-    background-color: #523f33b3;
+    background-color: #3c2f26ba;
     color: wheat;
     font-family: 'Space Mono', monospace;
-    height: 40vh;
+    max-height: 90vh;
     overflow-y: scroll;
-    margin: 20px 20px;
+    scroll-behavior: smooth;
+    margin: 30px 20px 20px 20px;
     text-align: justify;
-    padding: 20px 30px;
-
-
+    padding: 10px 0;
 }
 
 #history-title {
@@ -215,6 +214,11 @@ main {
     font-size: 130%;
     text-align: center;
 }
+
+#health-benefits-description {
+    font-size: 75%;
+}
+
 
 /* Footer - A part of this code was borrowed from the walkthourgh project Love Running for this section and can be found here: https://github.com/Code-Institute-Solutions/love-running-v3/blob/main/3.7-creating-the-footer/assets/css/style.css */
 
