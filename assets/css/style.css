@@ -237,8 +237,12 @@ main {
 }
 
 #tutorials {
-    background-color: green;
+    background-image: url("/assets/images/tutorials-image.jpg");
     position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
     width: 100%;
     min-height: 90vh;
     padding: 0 10% 0 10%;
