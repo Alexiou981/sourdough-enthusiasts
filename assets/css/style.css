@@ -227,8 +227,9 @@ main {
     text-align: center;
 }
 
+
 #health-benefits-description {
-    font-size: 65%;
+    font-size: 70%;
 }
 
 
@@ -298,6 +299,15 @@ footer {
 
     #history-description {
         font-size: 80%;
+    }
+
+    #health-benefits-text {
+        padding: 20px 40px;
+        max-height: 85vh;
+    }
+
+    #health-benefits-description {
+        font-size: 75%;
     }
 }
 
@@ -379,6 +389,14 @@ footer {
         min-height: 95vh;
     }
 
+    #health-benefits-text {
+        padding: 20px 60px;
+    }
+
+    #health-benefits-description {
+        font-size: 90%;
+    }
+
 }
     /* Media query for laptop screens and larger */
 
@@ -407,6 +425,14 @@ footer {
         }
         #text-img3 {
             width: 40%;
+        }
+
+        #health-benefits-text {
+            padding: 20px 120px;
+        }
+
+        #health-benefits-description {
+            font-size: 100%;
         }
 
     }
