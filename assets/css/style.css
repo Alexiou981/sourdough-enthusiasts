@@ -165,7 +165,7 @@ main {
 
 #history-title {
     text-transform: uppercase;
-    font-size: 130%;
+    font-size: 150%;
     text-align: center;
 }
 
@@ -228,7 +228,7 @@ main {
 
 #health-benefits-title {
     text-transform: uppercase;
-    font-size: 130%;
+    font-size: 150%;
     text-align: center;
 }
 
@@ -300,6 +300,10 @@ footer {
         width: 70%;
     }
 
+    #history-title {
+        font-size: 160%;
+    }
+
     #history-text {
         padding: 20px 40px;
         max-height: 85vh;
@@ -307,6 +311,10 @@ footer {
 
     #history-description {
         font-size: 80%;
+    }
+
+    #health-benefits-title {
+        font-size: 160%;
     }
 
     #health-benefits-text {
@@ -375,6 +383,11 @@ footer {
         min-height: 95vh;
     }
 
+    #history-title {
+        font-size: 180%;
+    }
+
+ 
     #history-text {
         padding: 20px 60px;
     }
@@ -397,6 +410,10 @@ footer {
         min-height: 95vh;
     }
 
+    #health-benefits-title {
+        font-size: 180%;
+    }
+
     #health-benefits-text {
         padding: 20px 60px;
     }
@@ -415,10 +432,6 @@ footer {
 
         #history-text {
             padding: 20px 120px;
-        }
-
-        #history-title {
-            font-size: 160%;
         }
 
         #history-description {
