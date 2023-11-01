@@ -210,14 +210,15 @@ main {
 
 #health-benefits-text {
     position: relative;
-    background-color: #523f33b3;
+    background-color: #3c2f26ba;
     color: wheat;
     font-family: 'Space Mono', monospace;
-    height: 40vh;
+    max-height: 80vh;
     overflow-y: scroll;
-    margin: 20px 20px;
+    scroll-behavior: smooth;
+    margin: 30px 20px 20px 20px;
     text-align: justify;
-    padding: 20px 30px;
+    padding: 10px 0;
 }
 
 #health-benefits-title {
@@ -227,7 +228,7 @@ main {
 }
 
 #health-benefits-description {
-    font-size: 75%;
+    font-size: 65%;
 }
 
 
