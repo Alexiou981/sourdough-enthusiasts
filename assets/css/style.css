@@ -169,6 +169,11 @@ main {
     text-align: center;
 }
 
+.fa-solid.fa-bread-slice {
+    border: 1px solid;
+    border-radius: 30%;
+}
+
 #history-description {
     font-size: 75%;
 }
@@ -260,7 +265,10 @@ footer {
 @media screen and (min-width: 375px) {
     #landing-quote {
         font-size: 120%;
+    }
 
+    #history-title {
+        padding: 20px 20px;
     }
 
 }
