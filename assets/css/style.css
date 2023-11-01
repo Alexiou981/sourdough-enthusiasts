@@ -244,6 +244,16 @@ main {
 
 }
 
+#starter-tutorial {
+    width: 90%;
+    min-height: 40vh;
+}
+
+#bread-tutorial {
+    width: 90%;
+    min-height: 40vh;
+}
+
 
 /* Footer - A part of this code was borrowed from the walkthourgh project Love Running for this section and can be found here: https://github.com/Code-Institute-Solutions/love-running-v3/blob/main/3.7-creating-the-footer/assets/css/style.css */
 
