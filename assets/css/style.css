@@ -173,6 +173,28 @@ main {
 #history-description {
     font-size: 75%;
 }
+
+#text-img1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    max-height: 38vh;
+}
+#text-img2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    max-height: 33vh;
+}
+#text-img3 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    max-height: 38vh;
+}
 /* Footer - A part of this code was borrowed from the walkthourgh project Love Running for this section and can be found here: https://github.com/Code-Institute-Solutions/love-running-v3/blob/main/3.7-creating-the-footer/assets/css/style.css */ 
 
 footer {
