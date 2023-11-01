@@ -247,21 +247,20 @@ main {
     flex-direction: column;
     align-content: center;
     justify-content: flex-end;
-
 }
 
 #starter-tutorial {
     position: relative;
     width: 100%;
     height: 30vh;
-    
+    padding: 10%;   
 }
 
 #bread-tutorial {
     position: relative;
     width: 100%;
     height: 30vh;
-    
+    padding: 10%;
 }
 
 
