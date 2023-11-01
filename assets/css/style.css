@@ -232,9 +232,16 @@ main {
     text-align: center;
 }
 
-
 #health-benefits-description {
     font-size: 70%;
+}
+
+#tutorials {
+    background-color: green;
+    position: relative;
+    width: 100%;
+    min-height: 90vh;
+
 }
 
 
