@@ -383,6 +383,10 @@ footer {
     #tutorials-title {
         font-size: 160%;
     }
+
+    #tutorials-text {
+        font-size: 80%;
+    }
 }
 
 /* Media query for tablet screens and larger */
@@ -484,6 +488,10 @@ footer {
         font-size: 180%;
     }
 
+    #tutorials-text {
+        font-size: 95%;
+    }
+
 }
     /* Media query for laptop screens and larger */
 
@@ -516,6 +524,10 @@ footer {
 
         #health-benefits-description {
             font-size: 100%;
+        }
+
+        #tutorials-text {
+            font-size: 110%;
         }
 
     }
