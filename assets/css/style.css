@@ -247,7 +247,7 @@ main {
     min-height: 90vh;
     padding: 0 10% 0 10%;
     display: flex;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     flex-direction: column;
     align-content: center;
     justify-content: flex-end;
