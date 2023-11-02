@@ -237,7 +237,7 @@ main {
 }
 
 #tutorials {
-    background-image: url("/assets/images/tutorials-image.jpg");
+    background-image: url('../images/tutorials-image.jpg');
     position: relative;
     background-size: cover;
     background-repeat: no-repeat;
