@@ -579,8 +579,9 @@ footer {
     /* Get-involved style rules */
 
     #background-container {
-        margin: 10% 5% 10% 50%;
+        margin: 2% 5% 10% 50%;
     }
+
 
 }
 
@@ -639,13 +640,4 @@ footer {
     #photos {
         column-count: 4;
     }
-
-    /* Get-involved section*/
-
-    #background-container {
-        margin: 2% 5% 10% 50%;
-    }
-
-    
-
 }
