@@ -484,12 +484,28 @@ footer {
         font-size: 90%;
     }
 
+    #tutorials {
+        flex-direction: row;
+        justify-content: space-around;
+        padding: 2%;  
+    }
+
     #tutorials-title {
         font-size: 180%;
     }
 
     #tutorials-text {
         font-size: 95%;
+    }
+
+    #starter-tutorial {
+        width: 40vw;
+        height: 30vh; 
+    }
+
+    #bread-tutorial {
+        width: 40vw;
+        height: 30vh;
     }
 
 }
@@ -525,9 +541,20 @@ footer {
         #health-benefits-description {
             font-size: 100%;
         }
+ 
 
         #tutorials-text {
             font-size: 110%;
+        }
+
+        #starter-tutorial {
+            width: 45vw;
+            height: 40vh; 
+        }
+    
+        #bread-tutorial {
+            width: 45vw;
+            height: 40vh;
         }
 
     }
