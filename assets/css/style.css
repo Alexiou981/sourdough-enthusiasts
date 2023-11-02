@@ -313,21 +313,23 @@ main {
 
 #get-involved {
     background: url('../images/get-involved-pic.jpg');
+    position: absolute;
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
     width: 100%;
-    min-height: 75vh;
+    height: 100%;
 }
 
 #background-container {
     position: relative;
     background-color: #3c2f26ba;
     color: wheat;
-    min-height: 60vh;
+    height: 70vh;
     font-family: 'Space Mono', monospace;
-    margin: 10% 5%;
+    margin: 10%;
+    padding: 10%;
 }
 
 #get-involved-title {
@@ -574,6 +576,12 @@ footer {
         column-count: 3;
     }
 
+    /* Get-involved style rules */
+
+    #background-container {
+        margin: 10% 5% 10% 50%;
+    }
+
 }
 
 /* Media query for laptop screens and larger */
@@ -626,8 +634,18 @@ footer {
         height: 40vh;
     }
 
+    /* Gallery section */
+
     #photos {
         column-count: 4;
     }
+
+    /* Get-involved section*/
+
+    #background-container {
+        margin: 2% 5% 10% 50%;
+    }
+
+    
 
 }
