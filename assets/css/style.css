@@ -282,7 +282,7 @@ main {
 #starter-tutorial {
     position: relative;
     width: 100%;
-    height: 25vh; 
+    height: 25vh;
 }
 
 #bread-tutorial {
@@ -291,6 +291,23 @@ main {
     height: 25vh;
 }
 
+/* Gallery Page */
+
+#gallery {
+    background-color: #F4EFCA;
+}
+
+/* This code was borrowed from the Love Running Project (https://github.com/Code-Institute-Solutions/love-running-v3/blob/main/6.1-lets-add-some-images/assets/css/style.css) from here */
+#photos img {
+    width: 100%;
+    line-height: 1em;
+}
+
+#photos {
+    line-height: 0;
+}
+
+/* Up to here */
 
 /* Footer - A part of this code was borrowed from the walkthourgh project Love Running for this section and can be found here: https://github.com/Code-Institute-Solutions/love-running-v3/blob/main/3.7-creating-the-footer/assets/css/style.css */
 
@@ -387,6 +404,13 @@ footer {
     #tutorials-text {
         font-size: 80%;
     }
+
+    /* Gallery style rules */
+
+    #photos {
+        column-count: 2;
+        column-gap: 0;
+    }
 }
 
 /* Media query for tablet screens and larger */
@@ -449,7 +473,7 @@ footer {
         font-size: 180%;
     }
 
- 
+
     #history-text {
         padding: 20px 60px;
     }
@@ -461,9 +485,11 @@ footer {
     #text-img1 {
         width: 60%;
     }
+
     #text-img2 {
         width: 50%;
     }
+
     #text-img3 {
         width: 60%;
     }
@@ -487,7 +513,7 @@ footer {
     #tutorials {
         flex-direction: row;
         justify-content: space-around;
-        padding: 2%;  
+        padding: 2%;
     }
 
     #tutorials-title {
@@ -500,7 +526,7 @@ footer {
 
     #starter-tutorial {
         width: 40vw;
-        height: 30vh; 
+        height: 30vh;
     }
 
     #bread-tutorial {
@@ -508,53 +534,66 @@ footer {
         height: 30vh;
     }
 
-}
-    /* Media query for laptop screens and larger */
+    /* Gallery style rules */
 
-    @media screen and (min-width: 1024px) {
-        #menu a:hover {
-            border-bottom: 1px solid #3a3a3a;
-        }
-
-        #history-text {
-            padding: 20px 120px;
-        }
-
-        #history-description {
-            font-size: 110%;
-        }
-
-        #text-img1 {
-            width: 40%;
-        }
-        #text-img2 {
-            width: 30%;
-        }
-        #text-img3 {
-            width: 40%;
-        }
-
-        #health-benefits-text {
-            padding: 20px 120px;
-        }
-
-        #health-benefits-description {
-            font-size: 100%;
-        }
- 
-
-        #tutorials-text {
-            font-size: 110%;
-        }
-
-        #starter-tutorial {
-            width: 45vw;
-            height: 40vh; 
-        }
-    
-        #bread-tutorial {
-            width: 45vw;
-            height: 40vh;
-        }
-
+    #photos {
+        column-count: 3;
     }
+
+}
+
+/* Media query for laptop screens and larger */
+
+@media screen and (min-width: 1024px) {
+    #menu a:hover {
+        border-bottom: 1px solid #3a3a3a;
+    }
+
+    #history-text {
+        padding: 20px 120px;
+    }
+
+    #history-description {
+        font-size: 110%;
+    }
+
+    #text-img1 {
+        width: 40%;
+    }
+
+    #text-img2 {
+        width: 30%;
+    }
+
+    #text-img3 {
+        width: 40%;
+    }
+
+    #health-benefits-text {
+        padding: 20px 120px;
+    }
+
+    #health-benefits-description {
+        font-size: 100%;
+    }
+
+
+    #tutorials-text {
+        font-size: 110%;
+    }
+
+    #starter-tutorial {
+        width: 45vw;
+        height: 40vh;
+    }
+
+    #bread-tutorial {
+        width: 45vw;
+        height: 40vh;
+    }
+
+    #photos {
+        column-count: 4;
+    }
+
+}
