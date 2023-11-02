@@ -309,6 +309,25 @@ main {
 
 /* Up to here */
 
+/* Form Section */
+
+#get-involved {
+    width: 100%;
+    padding: 5%;
+}
+
+#get-involved-title {
+    text-align: center;
+}
+
+#get-involved-sentence{
+    text-align: justify;
+}
+
+#get-involved-form {
+    text-align: center;
+}
+
 /* Footer - A part of this code was borrowed from the walkthourgh project Love Running for this section and can be found here: https://github.com/Code-Institute-Solutions/love-running-v3/blob/main/3.7-creating-the-footer/assets/css/style.css */
 
 footer {
