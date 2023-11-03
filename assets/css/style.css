@@ -21,7 +21,7 @@ body {
     font-family: 'Titillium Web', sans-serif;
 }
 
-/* Header - Code was borrowed from the walkthourgh project Love Running for this section and can be found here: https://github.com/Code-Institute-Solutions/love-running-v3/blob/main/3.7-creating-the-footer/assets/css/style.css */
+/* Header - Code was borrowed from the walkthourgh project Love Running for this section (Header) and can be found here: https://github.com/Code-Institute-Solutions/love-running-v3/blob/main/3.7-creating-the-footer/assets/css/style.css */
 
 header {
     background-color: #F4EFCA;
@@ -62,7 +62,7 @@ h1 {
     margin-bottom: .5em;
 }
 
-/* Indicated which page the user is located at on laptop and computer screens */
+/* Indicates which page the user is located at on laptop and computer screens */
 
 .active {
     border-bottom: 1px solid #3a3a3a;
@@ -139,6 +139,8 @@ main {
     font-size: 110%;
 }
 
+/* Generic styling for The History of Sourdough Bread section */
+
 #history {
     background: url('../images/history-image.jpg');
     width: 100%;
@@ -149,6 +151,8 @@ main {
     background-attachment: scroll;
     background-position: center;
 }
+
+/* Generic styling for all content inside The History of Sourdough Bread section */
 
 #history-text {
     position: relative;
@@ -202,6 +206,8 @@ main {
     max-height: 38vh;
 }
 
+/* Generic styling for the Health Benefits Section */
+
 #health-benefits {
     background: url('../images/health-benefits.jpg');
     width: 100%;
@@ -212,6 +218,8 @@ main {
     background-attachment: scroll;
     background-position: center;
 }
+
+/* Generic styling for all content inside The History of Sourdough Bread section */
 
 #health-benefits-text {
     position: relative;
@@ -236,6 +244,8 @@ main {
     font-size: 70%;
 }
 
+/* Generic styling for the Tutorials section */
+
 #tutorials {
     background-image: url('../images/tutorials-image.jpg');
     position: relative;
@@ -252,6 +262,8 @@ main {
     justify-content: space-between;
     padding: 5%;
 }
+
+/* Generic styling for all content inside the Tutorials section */
 
 #tutorials-section {
     position: relative;
@@ -292,13 +304,14 @@ main {
     height: 25vh;
 }
 
-/* Gallery Page */
+/* Generic styling for Gallery page */
 
 #gallery {
     background-color: #F4EFCA;
 }
 
-/* This code was borrowed from the Love Running Project (https://github.com/Code-Institute-Solutions/love-running-v3/blob/main/6.1-lets-add-some-images/assets/css/style.css) from here */
+/* This code was borrowed from the Love Running Project (https://github.com/Code-Institute-Solutions/love-running-v3/blob/main/6.1-lets-add-some-images/assets/css/style.css)(line 189 to 198) from here */
+
 #photos img {
     width: 100%;
     line-height: 1em;
@@ -310,7 +323,7 @@ main {
 
 /* Up to here */
 
-/* Get-Involved Section */
+/* Generic styling for Get Involved page */
 
 #get-involved {
     background: url('../images/get-involved-pic.jpg');
@@ -327,6 +340,8 @@ main {
     justify-content: center;
 
 }
+
+/* Generic styling for all content inside the Get Involved page */
 
 #background-container {
     position: relative;
@@ -346,7 +361,7 @@ main {
     position: relative;
 }
 
-#get-involved-sentence{
+#get-involved-sentence {
     text-align: left;
     font-size: 100%;
     position: relative;
@@ -378,12 +393,17 @@ footer {
     color: #3a3a3a;
 }
 
-/* Media query for medium mobile screens */
+/* Media query for medium mobile screens and up */
 
 @media screen and (min-width: 375px) {
+
+    /* Style rule for Landning section of the home page */
+
     #landing-quote {
         font-size: 120%;
     }
+
+    /* Style rule for History section of the home page */
 
     #history-title {
         padding: 20px 20px;
@@ -393,6 +413,9 @@ footer {
 
 /* Media query for header responsiveness 387px and up */
 @media screen and (min-width: 387px) {
+
+    /* Style rules for height adjustment of all sections of the home page */
+
     main {
         margin-top: 38px;
     }
@@ -414,9 +437,14 @@ footer {
 /* Media query for large mobiles 425px and up */
 
 @media screen and (min-width:425px) {
+
+    /* Style rule for Landing section of the home page */
+
     #landing-quote {
         width: 70%;
     }
+
+    /* Style rules for History section of the home page */
 
     #history-title {
         font-size: 160%;
@@ -431,6 +459,8 @@ footer {
         font-size: 80%;
     }
 
+    /* Style rules for Get Involved section of the home page */
+
     #health-benefits-title {
         font-size: 160%;
     }
@@ -443,6 +473,8 @@ footer {
     #health-benefits-description {
         font-size: 75%;
     }
+
+    /* Style rules for Tutorials section of the home page */
 
     #tutorials-title {
         font-size: 160%;
@@ -498,9 +530,13 @@ footer {
         text-align: left;
     }
 
+    /* Generic style rules for height adjustment of Main part of the code */
+
     main {
         margin-top: 75px;
     }
+
+    /* Style rules for Landing section of the home page */
 
     #landing-image {
         min-height: 95vh;
@@ -511,6 +547,8 @@ footer {
         margin-top: 10%;
         font-size: 130%;
     }
+
+    /* Style rules for History section of the home page */
 
     #history {
         min-height: 95vh;
@@ -541,6 +579,8 @@ footer {
         width: 60%;
     }
 
+    /* Style rule for Health Benefits section of the home page */
+
     #health-benefits {
         min-height: 95vh;
     }
@@ -556,6 +596,8 @@ footer {
     #health-benefits-description {
         font-size: 90%;
     }
+
+    /* Style rule for Tutorials section of the home page */
 
     #tutorials {
         flex-direction: row;
@@ -599,9 +641,14 @@ footer {
 /* Media query for laptop screens and larger */
 
 @media screen and (min-width: 1024px) {
+
+    /* Style rule to indicate where the user is located when navigating throughout the 3 pages */
+
     #menu a:hover {
         border-bottom: 1px solid #3a3a3a;
     }
+
+    /* Style rule for History section of the home page */
 
     #history-text {
         padding: 20px 120px;
@@ -623,6 +670,8 @@ footer {
         width: 40%;
     }
 
+    /* Style rule for Health Benefits section of the home page */
+
     #health-benefits-text {
         padding: 20px 120px;
     }
@@ -630,6 +679,8 @@ footer {
     #health-benefits-description {
         font-size: 100%;
     }
+
+    /* Style rule for Tutorials section of the home page */
 
 
     #tutorials-text {
