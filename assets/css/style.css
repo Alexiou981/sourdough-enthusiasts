@@ -160,7 +160,7 @@ main {
     scroll-behavior: smooth;
     margin: 30px 20px 20px 20px;
     text-align: justify;
-    padding: 10px 0;
+    padding: 10px 10px;
 }
 
 #history-title {
@@ -223,7 +223,7 @@ main {
     scroll-behavior: smooth;
     margin: 30px 20px 20px 20px;
     text-align: justify;
-    padding: 10px 0;
+    padding: 10px 10px;
 }
 
 #health-benefits-title {
@@ -266,6 +266,7 @@ main {
     flex-wrap: nowrap;
     flex-direction: column;
     justify-content: space-evenly;
+    padding: 0 10px;
 }
 
 #tutorials-title {
@@ -422,7 +423,7 @@ footer {
     }
 
     #history-text {
-        padding: 20px 40px;
+        padding: 20px 10px;
         max-height: 85vh;
     }
 
@@ -435,7 +436,7 @@ footer {
     }
 
     #health-benefits-text {
-        padding: 20px 40px;
+        padding: 20px 10px;
         max-height: 85vh;
     }
 
