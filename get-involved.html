@@ -11,7 +11,7 @@
     <!-- Title -->
     <title>Sourdough Enthusiasts</title>
     <!-- Favicon -->
-    <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png" aria-label="Icon of a sourdough bread">
     <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">
     <!-- Stylesheet -->
@@ -22,16 +22,16 @@
 <body>
     <!-- Header -->
     <header>
-        <a href="index.html">
+        <a href="index.html" aria-label="The logo, click to get directed to the Homepage">
             <h1 id="logo">Sourdough Enthusiasts</h1>
         </a>
         <input type="checkbox" id="nav-toggle" name="nav-toggle">
-        <label for="nav-toggle" class="nav-toggle-label"><i class="fa-solid fa-bars"></i></label>
+        <label for="nav-toggle" class="nav-toggle-label" aria-label="Menu toggle icon"><i class="fa-solid fa-bars"></i></label>
         <nav>
             <ul id="menu">
-                <li><a href="index.html">Home</a></li>
-                <li><a href="gallery.html">Gallery</a></li>
-                <li><a href="get-involved.html" class="active">Get Involved</a></li>
+                <li><a href="index.html" aria-label="The home button, click to get directed to the Homepage">Home</a></li>
+                <li><a href="gallery.html" aria-label="The gallery button, click to get directed to the Gallery page.">Gallery</a></li>
+                <li><a href="get-involved.html" class="active" aria-label="The get involved button, click to get directed to the Get Involved page.">Get Involved</a></li>
             </ul>
         </nav>
     </header>
@@ -43,13 +43,13 @@
             <h3 id="get-involved-sentence"> To receive weekly sourdough facts and exclusive tutorials fill in the form below:</h3>
             <form id="get-involved-form" action="https://formdump.codeinstitute.net/" method="POST">
                 <label for="first.name">First Name:</label><br>
-                <input type="text-box" id="first.name" name="first.name" placeholder="First Name"><br>
+                <input type="text-box" id="first.name" name="first.name" placeholder="First Name" aria-label="First name"><br>
                 <label for="last.name">Last Name:</label><br>
-                <input type="text-box" id="last.name" name="last.name" placeholder="Last Name"><br>
+                <input type="text-box" id="last.name" name="last.name" placeholder="Last Name" aria-label="Last name"><br>
                 <label for="email">Email Address:</label><br>
-                <input type="email" id="email" name="email" placeholder="Email Address"><br>
+                <input type="email" id="email" name="email" placeholder="Email Address" aria-label="Email address"><br>
                 <label for="submit"></label><br>
-                <input type="submit" id="submit" name="submit"><br>
+                <input type="submit" id="submit" name="submit" aria-label="Submit button"><br>
             </form>
             <div>
         </section>
