@@ -107,7 +107,7 @@ main {
     margin-top: 75px;
     display: flex;
     flex-direction: column;
-    justify-content: content;
+    justify-content: center;
 }
 
 /* Generic styling for landing image */
@@ -376,7 +376,7 @@ main {
 footer {
     width: 100%;
     background-color: #F4EFCA;
-    padding: 20px, 0;
+    padding: 20px 0;
 }
 
 #social-media {
@@ -634,8 +634,6 @@ footer {
     #background-container {
         margin: 2% 5% 10% 50%;
     }
-
-
 }
 
 /* Media query for laptop screens and larger */
@@ -681,7 +679,6 @@ footer {
     }
 
     /* Style rule for Tutorials section of the home page */
-
 
     #tutorials-text {
         font-size: 110%;
