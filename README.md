@@ -5,6 +5,17 @@ Sourdough Enthusiasts is a site for those hungry and passionate about baking sou
 
 ## **Features**
 ### *Existing Features*
+
+- __Styling Choices__
+
+    - COLOR PALETTE created at [coolors](https://coolors.co/f4efca-3a3a3a-8b6a60-f5deb3)
+
+    - I choose this specific pallete since I wanted to use colors that would be similar to those of bread.
+
+    ![Color Palette](assets/images/features-images/color-palette.png)
+
+    - Typography choice: Space Mono, this font was used due to it's techy mood and even though this site is not tech-related in my opinion this font was the right fit for it.
+
 - __Navigation Bar__
     - The navigation bar is fully responsive and allows the user to navigate to all three pages (Home, Gallery and Get Involved) and the Logo (SOURDOUGH ENTHUSIASTS) which takes the user to the home page.
     - It is featured in all three pages of the website.
@@ -66,6 +77,7 @@ Sourdough Enthusiasts is a site for those hungry and passionate about baking sou
     - It lets the user access and get connected with the websites social media.
 
 ![Footer with Social Media links](assets/images/features-images/smedia-footer.png)
+
 ### *Potential Futute Features*
 
 - Adding a carousel for the videos instead of placing them next to each other, that will allow the user to navigate back and forth between the videos and will allow the ability to add even more video tutorials without taking up too much space.
@@ -73,6 +85,14 @@ Sourdough Enthusiasts is a site for those hungry and passionate about baking sou
 - A map that will allow the user to input their postcode and provide them with information of where to find sourdough bread in their area.
 
 ## **Testing**
+
+- The website was tested through various devices and prooven to be responsive in all screen sizes using the Google Chrome Inspector.
+- All links to social media open in a new page.
+- Youtube video autoplay is disabled.
+- Nav bar is responsive and indicates to the user which page of the site is chosen.
+- Both articles are fully responsive and able to scroll up and down.
+- All images are displayed on the deployed site as well and there are no broken links or content.
+
 ### *Validator Testing*
 
 - The html code of each page (Home, Gallery, Get Involved) was validated successfully without outputing any erros using the [HTML Validator](https://validator.w3.org/).
