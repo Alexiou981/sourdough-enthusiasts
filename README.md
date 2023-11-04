@@ -66,7 +66,12 @@ Sourdough Enthusiasts is a site for those hungry and passionate about baking sou
     - It lets the user access and get connected with the websites social media.
 
 ![Footer with Social Media links](assets/images/features-images/smedia-footer.png)
-### *Features to be added in future*
+### *Potential Futute Features*
+
+- Adding a carousel for the videos instead of placing them next to each other, that will allow the user to navigate back and forth between the videos and will allow the ability to add even more video tutorials without taking up too much space.
+
+- A map that will allow the user to input their postcode and provide them with information of where to find sourdough bread in their area.
+
 ## **Testing**
 ### *Validator Testing* 
 ### *Unfixed Bugs* 
