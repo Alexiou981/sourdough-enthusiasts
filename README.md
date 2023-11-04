@@ -1,5 +1,5 @@
 # SOURDOUGH ENTHUSIASTS
-Sourdough Enthusiasts is a site for those hungry and passionate about baking sourdough bread baking. It is aiming to provide the user with useful information of the subject, such as the history of sourdough bread, the health benefits of consuming it and step-by-step video tutorials of the fundamental knowledge required. This website will be targeted to adults over the age of 20 who either wish to find out more information about sourdough bread or even get involved and start cultivating their own sourdough starter and baking their very own loaves of bread.
+Sourdough Enthusiasts is a site for those hungry and passionate about sourdough bread baking. It is aiming to provide the user with useful information of the subject, such as the history of sourdough bread, the health benefits of consuming it and step-by-step video tutorials of the fundamental knowledge required. This website will be targeted to adults over the age of 20 who either wish to find out more information about sourdough bread or even get involved and start cultivating their own sourdough starter and baking their very own loaves of bread.
 
 ![Landing Image](assets/images/am-i-responsive.png)
 
@@ -29,7 +29,7 @@ Sourdough Enthusiasts is a site for those hungry and passionate about baking sou
 
 - __Landing Page__
 
-    - The image on the landning page and the quote help provide the user with an idea of what the website will be related to. 
+    - The image on the landing page and the quote help provide the user with an idea of what the website will be related to. 
     - It is a very minimalistic section compared to the other sections and aims to encourage and inspire users to dive into the details of sourdough bread.
 
     ![Landing Image](assets/images/features-images/landing-screenshot.png)
@@ -37,7 +37,7 @@ Sourdough Enthusiasts is a site for those hungry and passionate about baking sou
 - __The History of Sourdough Section__
 
     - This section icludes an article about the origins and evolution of sourdough bread. Helps the user deepen their knowledge and understanding of this specific subject.
-    - The frame that the article is placed inside allows the user to scroll up or down offering a convenient experience of navigation throught the website.
+    - The frame that the article is placed inside allows the user to scroll up or down offering a convenient experience of navigation through the website.
     - The article includes various images that are related with the history of sourdough.
     - The contrast between the background image and the article was intentional and is aiming to offer better readability.
 
@@ -148,6 +148,8 @@ The live link of the website is: https://alexiou981.github.io/sourdough-enthusia
 ### *Media* 
 - The photo used for the [favicon](https://www.pexels.com/photo/freshly-baked-golden-loaf-on-white-surface-6605209/) was taken from an open-source website and it was uploaded by _Geraud Pfeiffer_.
 
+- The videos used for the tutorial section were [starter tutorial](https://www.youtube.com/watch?v=4nh4Z0EncGk&ab_channel=ChefStudio) by Chef Studio and [bread tutorial](https://www.youtube.com/watch?v=4r8irdLuUtc&ab_channel=CulinaryExploration) by Culinary Exploration.
+
 - The images used for the Gallery page were taken from three different open-source websites, pexels, unsplash and pixabay. Links to the original images along with the owners name can be found below:
 
    - Raw dough with flour and ingredients on table [image](https://www.pexels.com/photo/raw-dough-with-flour-and-ingredients-on-table-6605210/) uploaded by _Geraud Pfeiffer_ 
@@ -168,4 +170,4 @@ The live link of the website is: https://alexiou981.github.io/sourdough-enthusia
    - A Person Holding a Crusting Loaf of Bread [image](https://www.pexels.com/photo/a-person-holding-a-crusty-loaf-of-bread-10011795/) by _Skyler Ewing_
    - Fresh bread in basket placed on wooden surface [image](https://www.pexels.com/photo/fresh-bread-in-basket-placed-on-wooden-surface-6794615/) by _Piotr Arnoldes_
 
-- The videos used for the tutorial section were [starter tutorial](https://www.youtube.com/watch?v=4nh4Z0EncGk&ab_channel=ChefStudio) by Chef Studio and [bread tutorial](https://www.youtube.com/watch?v=4r8irdLuUtc&ab_channel=CulinaryExploration) by Culinary Exploration.
+
