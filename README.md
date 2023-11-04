@@ -1,5 +1,5 @@
 # SOURDOUGH ENTHUSIASTS
-Sourdough Enthusiasts is a site for those who have a hunger and a passion about baking sourdough bread. It is aiming to inform the user with related information to the subject, such as the history of sourdough bread, the health benefits of consuming it and step-by-step video tutorials of the fundamental knowledge required. This website will be targeted to adults over the age of 20 who either wish to find out more information about sourdough bread or even get involved and start cultivating their own sourdough starter and baking their very own loaves of bread.
+Sourdough Enthusiasts is a site for those hungry and passionate about baking sourdough bread baking. It is aiming to provide the user with useful information of the subject, such as the history of sourdough bread, the health benefits of consuming it and step-by-step video tutorials of the fundamental knowledge required. This website will be targeted to adults over the age of 20 who either wish to find out more information about sourdough bread or even get involved and start cultivating their own sourdough starter and baking their very own loaves of bread.
 
 ![Landing Image](assets/images/am-i-responsive.png)
 
@@ -11,17 +11,17 @@ Sourdough Enthusiasts is a site for those who have a hunger and a passion about 
     - It provides the user with easy navigation on all screens with the pages being displayed in a single row on tablet screens and larger. For mobile screens the pages list can be displayed by clicking on the icon at the top right of the screen.
 
     **Mobile Screens:**
-![Nav Bar for Mobile Screens](assets/images/features-images/nav-bar-smaller-screens.png)
+    ![Nav Bar for Mobile Screens](assets/images/features-images/nav-bar-smaller-screens.png)
 
     **Table Screens and Larger:**
-![Nav Bar for Tablet Screens and Larger](assets/images/features-images/nav-bar-tablet-screen-and-up.png)
+!   [Nav Bar for Tablet Screens and Larger](assets/images/features-images/nav-bar-tablet-screen-and-up.png)
 
 - __Landing Page__
 
     - The image on the landning page and the quote help provide the user with an idea of what the website will be related to. 
     - It is a very minimalistic section compared to the other sections and aims to encourage and inspire users to dive into the details of sourdough bread.
 
-![Landing Image](assets/images/features-images/landing-screenshot.png)
+    ![Landing Image](assets/images/features-images/landing-screenshot.png)
 
 - __The History of Sourdough Section__
 
@@ -30,7 +30,7 @@ Sourdough Enthusiasts is a site for those who have a hunger and a passion about 
     - The article includes various images that are related with the history of sourdough.
     - The contrast between the background image and the article was intentional and is aiming to offer better readability.
 
-![History Image](assets/images/features-images/history-of-bread-screenshot.png)
+    ![History Image](assets/images/features-images/history-of-bread-screenshot.png)
 
 - __Health Benefits of Sourdough Section__
 
@@ -38,16 +38,27 @@ Sourdough Enthusiasts is a site for those who have a hunger and a passion about 
     - To maintain consistency over the site this section also allows the user to scroll up and down in order to navigate through the article.
     - Contrast between the background and the article has been used here as well for readability purposes.
 
-![Health Image](assets/images/features-images/health-benefits-screenshot.png)
+    ![Health Image](assets/images/features-images/health-benefits-screenshot.png)
 
 - __Tutorials Section__
 
     - This section include two fundamental tutorials necessary for the creation of a traditional sourdough bread.
     - It encourages the user to get involved by providing step-by-step guidance, the videos are simple to understand and the instructions useful to those interested in participating in bread-making.
 
+    ![Tutorials Image](assets/images/features-images/tutorials-screenshot.png)
 
+- __The Gallery Section__
 
-![Tutorials Image](assets/images/features-images/tutorials-screenshot.png)
+    - This section provides the user with visual content of the process of bread making.
+    - It includes images of the very early stages of the process from having the ingredients on their own to a table to a baked loaf of bread straight out of the oven.
+
+    ![Gallery Image](assets/images/features-images/gallery-screenshot.png)
+
+- __The Get Ivolved Section__
+
+    - This section encourages the user to fill in the form in order to stay updated with more sourdough facts and exclusive step-by-step tutorials.
+
+    ![Get Involved Image](assets/images/features-images/get-involved-screenshot.png)
 
 - __The Footer__
 
