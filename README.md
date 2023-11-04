@@ -73,9 +73,14 @@ Sourdough Enthusiasts is a site for those hungry and passionate about baking sou
 - A map that will allow the user to input their postcode and provide them with information of where to find sourdough bread in their area.
 
 ## **Testing**
-### *Validator Testing* 
+### *Validator Testing*
+
+- The html code of each page (Home, Gallery, Get Involved) was validated successfully without outputing any erros using the [HTML Validator](https://validator.w3.org/).
+- The style.css code of the site was also successfully validated without any errors using the [CSS Validator](https://jigsaw.w3.org/css-validator/)
+
 ### *Unfixed Bugs* 
-    - If any.
+- Non-applicable.
+
 ## **Repository and Workspace Set Up**
 -  Creating a repository on Github.com:
     - Click on the Repositories tab.
