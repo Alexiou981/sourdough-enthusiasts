@@ -41,7 +41,6 @@ header a {
     color: inherit;
 }
 
-
 h1 {
     font-family: 'Space Mono', monospace;
     text-transform: uppercase;
@@ -95,7 +94,6 @@ nav {
     font-size: 150%;
 }
 
-
 /* Main */
 
 main {
@@ -111,7 +109,6 @@ main {
 }
 
 /* Generic styling for landing image */
-
 
 #landing-image {
     background: url('../images/hero-image-hq.jpg');
@@ -131,7 +128,7 @@ main {
 /* Generic styling for landing quote */
 
 #landing-quote {
-    background-color: #8b6a56b3;
+    background-color: rgba(139, 106, 86, 0.702);
     color: wheat;
     width: 80%;
     position: relative;
