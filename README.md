@@ -1,4 +1,8 @@
 # SOURDOUGH ENTHUSIASTS
+Sourdough Enthusiasts is a site for those who have a hunger and a passion about baking sourdough bread. It is aiming to inform the user with related information to the subject, such as the history of sourdough bread, the health benefits of consuming it and step-by-step video tutorials of the fundamental knowledge required. This website will be targeted to adults over the age of 20 who either wish to find out more information about sourdough bread or even get involved and start cultivating their own sourdough starter and baking their very own loaves of bread.
+
+![Landing Image](assets/images/am-i-responsive.png)
+
 ## **Features**
 ### *Existing Features*
 - __Navigation Bar__
