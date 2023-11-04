@@ -25,7 +25,7 @@ Sourdough Enthusiasts is a site for those hungry and passionate about baking sou
     ![Nav Bar for Mobile Screens](assets/images/features-images/nav-bar-smaller-screens.png)
 
     **Table Screens and Larger:**
-!   [Nav Bar for Tablet Screens and Larger](assets/images/features-images/nav-bar-tablet-screen-and-up.png)
+    ![Nav Bar for Tablet Screens and Larger](assets/images/features-images/nav-bar-tablet-screen-and-up.png)
 
 - __Landing Page__
 
@@ -142,6 +142,8 @@ The live link of the website is: https://alexiou981.github.io/sourdough-enthusia
 - This [article](https://www.sourdough.co.uk/the-history-of-sourdough-bread/) about the history of sourdough bread was written by Vanessa Kimbell.
 
 - The health benefits section was taken from this [article](https://www.medicalnewstoday.com/articles/about-sourdough-bread) written by Louisa Richards.
+
+- All icons used were taken from [Font Awesome](https://fontawesome.com/)
 
 ### *Media* 
 - The photo used for the [favicon](https://www.pexels.com/photo/freshly-baked-golden-loaf-on-white-surface-6605209/) was taken from an open-source website and it was uploaded by _Geraud Pfeiffer_.
